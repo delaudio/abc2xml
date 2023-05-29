@@ -38,7 +38,7 @@ source myenv/bin/activate
 python abc2xml.py test.abc > output.xml
 ```
 
-The script will override the ``output.xml``` file.
+The script will override the ```output.xml``` file.
 
 ## Deactivate virtualenv
 
